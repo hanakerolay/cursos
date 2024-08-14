@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 2px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color:blue;
+    padding: 25px 25px 25px 
+    
+}
+
+header>nav>ul{
+    list-style: none;
+}
+section{
+    font-size: 20px;
+    color: rgb(243, 132, 6);
+    margin: 15px 0px;
+}
+
+article{
+    display: inline-block;
+    text-align: center;
+}
+
+.titulos{
+    font-family: Arial, Helvetica, sans-serif;
+}
